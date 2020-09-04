@@ -1,4 +1,4 @@
-### This file will be in Russian Language, if you speak English - translate text to Russian Language!
+### This file will be in Russian Language, if you speak English - translate text to English Language!
 InviteTracker - Дискорд бот, который умеет писать на 2 языках: Русском и Английском!
 
 Среди особенностей:
